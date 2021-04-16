@@ -9,8 +9,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=ICTExam&show_icons=true&theme=blueberry&show_owner=li-ji-ji" />
 </a>
 <a href="https://github.com/li-ji-ji/CSP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=CSP&show_icons=true&theme=blueberry&show_owner=li-ji-ji" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=CSP&show_icons=true&theme=blueberry&show_owner=true" />
 </a>
+<p></p>
 <a href="https://github.com/li-ji-ji/Second">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=Second&show_icons=true&theme=blueberry&show_owner=li-ji-ji" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=Second&show_icons=true&theme=blueberry&show_owner" />
 </a>
