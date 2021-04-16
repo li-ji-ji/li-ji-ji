@@ -1,5 +1,5 @@
 <a href="https://github.com/li-ji-ji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-ji-ji&show_icons=true&theme=blueberry&count_private=true&layout=compact&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-ji-ji&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/li-ji-ji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-ji-ji&show_icons=true&theme=blueberry&count_private=true&layout=compact" />
