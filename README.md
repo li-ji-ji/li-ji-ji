@@ -1,4 +1,13 @@
-<div style="display: flex;justify-content: center;">
+{% raw %}
+
+<style>
+.styled-div1{
+	width: 100px;
+	height: 100px;
+	background: yellow;
+}
+</style>
+<div class="box">
   <div href="https://github.com/li-ji-ji" style="windth: 50%;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-ji-ji&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true" />
   </div>
@@ -15,3 +24,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=Second&show_icons=true&theme=blueberry&show_owner=true" />
   </div>
 </div>
+{% endraw %}
