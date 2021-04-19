@@ -15,3 +15,4 @@
 <a href="https://github.com/li-ji-ji/Second">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=Second&show_icons=true&theme=blueberry&show_owner=true" />
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
