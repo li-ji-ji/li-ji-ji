@@ -16,5 +16,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=Second&show_icons=true&theme=blueberry&show_owner=true" />
 </a>
 <a href="https://github.com/li-ji-ji/Reading">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=Second&show_icons=true&theme=blueberry&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=li-ji-ji&repo=Reading&show_icons=true&theme=blueberry&show_owner=true" />
 </a>
